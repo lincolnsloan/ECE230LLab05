@@ -16,7 +16,7 @@ the constraints file maps your inputs and outputs to real pins on the FPGA.
 ## Name
 Lincoln Sloan, Gavin Dombrowsky
 ## Lab Summary
-
+This lab helped to configure a Basys3 board using maxterm and minterms functions by making the most implemented function. This lab helped to understand the Verilog syntax with creating the best formulas along with coding the circuits with the top file. This lab also demonstrated how to edit the constraints file to configure the board. This lab helped to understand how to edit the respected files to make create equations from a truth table and test the output from the respected outputs.
 ## Lab Questions
 
 ### 1 - Explain the role of the Top Level file.
